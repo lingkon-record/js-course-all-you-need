@@ -9,3 +9,4 @@ myCoin = String(1.14);
 
 // One-line-a-code-run-ways
 console.log(myClass, myBkash, myCoin);
+console.log("out put isn't yello - bcz its string, not number");
