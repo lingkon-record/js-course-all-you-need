@@ -12,3 +12,8 @@ console.log("I need proper solution for all member");
 
 console.log(Number(totalNote) + noteName);
 console.log(Number.parseInt(totalNote) + noteName);
+
+console.log("Matbori - error");
+var kingPrice = "Mango";
+var kingList = 7;
+console.log(Number(kingPrice) * kingList);

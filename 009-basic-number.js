@@ -18,8 +18,3 @@ console.log(Number.MAX_VALUE);
 console.log("MIN_VALUE");
 console.log(Number.MIN_SAFE_INTEGER);
 console.log(Number.MIN_VALUE);
-
-// NaN - Infinity
-console.log("NaN - Infinity ");
-console.log("Mango" * 200);
-console.log(1 / 0);
