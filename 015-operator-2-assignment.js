@@ -1,4 +1,4 @@
-let rakib = (rony = rasel = simu = "Play Cricket ||");
+let rakib = (rony = rasel = simu = "Play Cricket " + " ||");
 console.log(
   "Rakib daily " + rakib,
   "Rony always like to " + rony,
@@ -9,8 +9,7 @@ console.log(
 //Addition Assignment Operator adds a value to a variable.
 var wallet = 2000;
 var nft_sell = 2000;
-wallet += crypto;
-
+wallet += nft_sell;
 console.log(nft_sell); // 2K
 console.log(wallet); // 4K
 
@@ -18,6 +17,7 @@ console.log(wallet); // 4K
 var mainWallet = 1500;
 var bitcoinInvest = 300;
 mainWallet -= bitcoinInvest;
-
 console.log(bitcoinInvest); // 300
 console.log(mainWallet); // 1200
+
+// Exponentiation Assignment Operator raises a variable to the power of the operand.
