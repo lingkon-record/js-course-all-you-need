@@ -37,30 +37,3 @@ for (let dig = 5; dig <= 10; dig++) {
 }
 
 //
-const friends = [
-  "Ashiq",
-  "Rakib",
-  "Rohan",
-  "Kawsar",
-  "Tofael",
-  "Alice",
-  "Bob",
-  "Charlie",
-  "David",
-  "Emma",
-  "Frank",
-  "Grace",
-  "Hannah",
-  "Isaac",
-  "Jack",
-  "Katie",
-  "Liam",
-  "Mia",
-  "Nathan",
-  "Olivia",
-];
-function getRendomFriend(arr) {
-  const rendom = Math.floor(Math.random() * arr?.length);
-  return arr[rendom];
-}
-console.log(getRendomFriend(friends));
