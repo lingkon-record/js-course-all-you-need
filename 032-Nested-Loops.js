@@ -7,3 +7,17 @@ result += j + " "
 }
 console.log(result)
 }
+
+// Example 2 : ChatGPT 
+
+var totalRows = 5;
+
+for (var row = 1; row <= totalRows; row++) {
+    var pattern = "";
+
+    for (var column = 1; column <= row; column++) {
+        pattern += "* "; // Adjust the pattern as needed
+    }
+
+    console.log(pattern);
+}
