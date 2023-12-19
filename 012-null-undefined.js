@@ -7,3 +7,4 @@ var sakibBag; // var sakibBag = bolbi na?
 console.log(rakibBag, sakibBag);
 
 // Example will be wallet in future
+// null undefined isn't same 
