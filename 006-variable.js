@@ -8,3 +8,5 @@ console.log("I start " + myCourse + " when my age was " + myAge); //start er por
 
 // Extra way to define variable
 let shopping_cart_items = ["ATM", "makeup", "sunglass"];
+
+// more examples 
