@@ -115,4 +115,5 @@ outerLoop: for (let i = 0; i < 3; i++) {
     }
     console.log(i, j);
   }
-}
+
+  // example 16
