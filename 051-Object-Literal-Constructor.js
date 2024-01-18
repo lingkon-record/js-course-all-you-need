@@ -1,4 +1,4 @@
-// 01
+// 01 No.
 let marks = {}
 marks.english = 10
 
