@@ -1,0 +1,12 @@
+
+// properties
+// : width & height
+var rect = {
+    width : 10,
+    height : 20,
+}
+
+// methods
+calculateArea: function(){
+    return this.width * this.height
+}
