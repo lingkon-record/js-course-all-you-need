@@ -117,3 +117,6 @@ outerLoop: for (let i = 0; i < 3; i++) {
   }
 
   // example 16
+  // I WII ADD IN NEXT 
+
+  // JAVASCRIPT A NEW PURE LANGUAGE TO 
