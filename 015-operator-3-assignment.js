@@ -1,3 +1,5 @@
+// assignment 
+
 var examFee = 100;
 var studentList = 20;
 examFee *= studentList;
