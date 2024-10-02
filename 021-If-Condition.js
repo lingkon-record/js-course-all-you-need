@@ -1,3 +1,4 @@
+// if condition 
 let mango = 70;
 let apple = 300;
 
