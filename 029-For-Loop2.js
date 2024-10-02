@@ -1,23 +1,23 @@
-// exam-no-001
+// exam-no-01
 console.log("Basic Numeric Loop:");
 for (let i = 0; i < 5; i++) {
   console.log(i);
 }
 
-// exam-no-002
+// exam-no-02
 console.log("Reverse Loop:");
 for (let i = 5; i > 0; i--) {
   console.log(i);
 }
 
-// exam-no-003
+// exam-no-03
 console.log("Looping through an Array:");
 const colors = ["red", "green", "blue"];
 for (let i = 0; i < colors.length; i++) {
   console.log(colors[i]);
 }
 
-// exam-no-004
+// exam-no-04
 console.log("Looping through an Object:");
 const person = { name: "John", age: 30, city: "New York" };
 for (const key in person) {
