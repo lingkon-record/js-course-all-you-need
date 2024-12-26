@@ -1,6 +1,3 @@
-
-
-
 // chat-gpt
 for (var i = 1; i <= 5; i++) {
     if (i === 3) {
@@ -9,5 +6,3 @@ for (var i = 1; i <= 5; i++) {
     }
     console.log("Current value of i:", i);
 }
-
-// Note : 
