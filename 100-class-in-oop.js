@@ -1,0 +1,1 @@
+// class is just a factory to create multiple object without code duplication
